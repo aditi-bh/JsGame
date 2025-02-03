@@ -1,4 +1,5 @@
 body{
+    align-self : center ;
     background-image: url(newimage.jpg);
     background-size: cover;
     font-weight: bolder;
